@@ -48,3 +48,5 @@ export default class PostCollection {
         this.save();
     }
 }
+
+// Done by Francisco Alexandru Babei

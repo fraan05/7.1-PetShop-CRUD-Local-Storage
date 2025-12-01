@@ -230,3 +230,5 @@ postsDiv.addEventListener("click", (ev) => {
 });
 
 displayPosts(postList.getAllPosts());
+
+// Done by Francisco Alexandru Babei
